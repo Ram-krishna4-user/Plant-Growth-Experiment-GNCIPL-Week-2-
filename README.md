@@ -1,9 +1,9 @@
-# Plant-Growth-Experiment-GNCIPL-Week-2-
-Plant Growth Experiment – Excel Data Analytics (Week 2 Project)  This project is part of the Data Analytics Week-2 series, focusing on practical applications of Basic Excel for data-driven insights.
+# Plant-Growth-Experiment-GNCIPL-Week-1
+Plant Growth Experiment – Excel Data Analytics (Week 1 Project)  This project is part of the Data Analytics Week-1 series, focusing on practical applications of Basic Excel for data-driven insights.
 
 Project Title 	 	: 	Plant Growth Experiment. 
 Description 	 	: 	Compare growth rates under different conditions
-Key Excel Skills 		: 	Line Graphs, Averages 
+Key Excel Skills 	: 	Line Graphs, Averages 
 
 This project presents a data-driven analysis of plant growth performance under varying environmental and nutrient conditions using Microsoft Excel Pivot Tables and Pivot Charts.
 The goal is to identify how key factors — such as temperature, humidity, soil type, nutrient level, and water availability — influence the average plant growth rate (cm/day).
