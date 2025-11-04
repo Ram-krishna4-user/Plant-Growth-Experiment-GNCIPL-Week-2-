@@ -35,5 +35,6 @@ Plant-Growth-Analysis-Dashboard
 
 FINAL.xlsx ----> 
 
-<img width="626" height="575" alt="image" src="https://github.com/user-attachments/assets/cc840de1-c876-45d1-b34a-6307a531cf27" />
+
+<img width="626" height="575" alt="image" src="https://github.com/user-attachments/assets/765f6c8d-a1fe-42ce-8320-53154a7627e6" />
 
